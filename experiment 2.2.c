@@ -1,3 +1,8 @@
+/*Experiment 2: Operators
+2. ⁠WAP a C program to Convert temperature from Celsius to Fahrenheit using
+the formula: F = (C * 9/5) + 32.*/
+
+
 #include <stdio.h>
 #include <conio.h>
 int main() {
@@ -19,3 +24,4 @@ int main() {
     getch();
     return 0;
 }
+
