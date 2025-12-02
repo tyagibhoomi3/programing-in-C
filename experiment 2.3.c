@@ -1,3 +1,6 @@
+/*Experiment 2: Operators
+3. ⁠Write a program to calculate Compound Interest.*/
+
 #include <stdio.h>
 #include <conio.h>
 int main() {
@@ -34,3 +37,4 @@ int main() {
     getch();
     return 0;
 }
+
