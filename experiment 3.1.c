@@ -1,3 +1,6 @@
+/*Experiment 3: Conditional Statements
+3.1.⁠ ⁠Write a C program to check whether a number is Even or ODD*/
+
 #include <stdio.h>
 #include <conio.h>
 int main() {
@@ -18,3 +21,4 @@ int main() {
     getch();
     return 0;
 }
+
