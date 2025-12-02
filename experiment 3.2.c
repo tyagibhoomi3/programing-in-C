@@ -1,3 +1,10 @@
+/*Experiment 3: Conditional Statements
+3.2. WAP to check if the triangle is valid or not. If the validity is
+established, do check if the triangle is isosceles,
+equilateral, right angle, or scalene. Take sides of the triangle as input
+from a user.*/
+
+
 #include <stdio.h>
 #include <conio.h>
 
@@ -38,3 +45,4 @@ int main() {
     getch();
     return 0;
 }
+
