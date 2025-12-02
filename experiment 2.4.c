@@ -1,3 +1,6 @@
+/*Experiment 2: Operators
+4. ⁠Write a program to find the roots of the quadratic equations.*/
+
 #include <stdio.h>
 #include<conio.h>
 
@@ -50,3 +53,4 @@ int main() {
     getch();
     return 0;
 }
+
