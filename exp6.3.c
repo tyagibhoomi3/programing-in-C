@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    printf ("Name- Shabdi Srivastava\nSAP_ID-590021135\nCourse-BCA\nBatch-6");  
+    printf ("Name- Bhoomi Tyagi\nSAP_ID-590028798\nCourse-BCA\nBatch-6");  
     printf("\n--------------------------------------\n");
     int n,i;
     printf("Enter the number of elements: ");
@@ -27,3 +27,4 @@ int main()
     printf("Frequency of %d is: %d\n", num, count);
     return 0;
 }
+
