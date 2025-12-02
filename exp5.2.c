@@ -22,5 +22,4 @@ void func2()
 {
     a =a+2;
     printf("func 2 - %d\n" ,a);
-    printf("Tring to print func 1 local variable here %d" ,b); // but it gives a error as we cannot use local variable in func to another
-}
+    printf("Tring to print func 1 local variable here %d" ,b); 
