@@ -14,10 +14,10 @@ int main()
     }
     {
     int b=1;
-    printf("tring to print variable of global code bloack %d\n" ,a); // would
-    printf("tring to print variable of primary code bloack %d\n" ,d);//wont should be in same code bloack or be a gloabal variable or be outside the code blocks
-    printf("tring to print variable of secondary code bloack %d\n" ,b) // would
-    printf("tring to print variable of teritery code bloack %d\n" ,c);//wont should be in same code bloack or be a gloabal variable or be outside the code blocks
+    printf("tring to print variable of global code bloack %d\n" ,a); 
+    printf("tring to print variable of primary code bloack %d\n" ,d);
+    printf("tring to print variable of secondary code bloack %d\n" ,b)
+    printf("tring to print variable of teritery code bloack %d\n" ,c);
     
     }
     {
@@ -25,4 +25,5 @@ int main()
 
     }
 }
+
 
